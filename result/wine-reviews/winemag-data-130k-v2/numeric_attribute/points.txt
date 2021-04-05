@@ -1,0 +1,7 @@
+Feature Name: points
+Max Num: 100
+Min Num: 80
+Mean Num: 88.44713820775404
+Median Num: 88.0
+Quartile Num: 86.0, 91.0
+Missing Num: 0

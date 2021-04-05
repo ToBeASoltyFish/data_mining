@@ -1,0 +1,7 @@
+Feature Name: Area Id
+Max Num: 2.0
+Min Num: 1.0
+Mean Num: 1.4336953830586563
+Median Num: 1.0
+Quartile Num: 1.0, 2.0
+Missing Num: 2258

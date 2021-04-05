@@ -1,0 +1,7 @@
+Feature Name: price
+Max Num: 3300.0
+Min Num: 4.0
+Mean Num: 35.363389129985535
+Median Num: 25.0
+Quartile Num: 17.0, 42.0
+Missing Num: 8996

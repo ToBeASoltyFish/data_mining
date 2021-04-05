@@ -1,0 +1,7 @@
+Feature Name: Priority
+Max Num: 2.0
+Min Num: 0.0
+Mean Num: 1.7961114351581813
+Median Num: 2.0
+Quartile Num: 2.0, 2.0
+Missing Num: 1
