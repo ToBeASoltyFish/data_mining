@@ -3,7 +3,7 @@
         Oakland Crime Statistics 2011 to 2016
 ## 运行环境
         python 3.6
-        pandas、scipy、matplotlib、sklearn
+        pandas、matplotlib、sklearn
 ## 运行方法
         python data_handle.py
 
